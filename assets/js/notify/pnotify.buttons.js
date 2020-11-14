@@ -10,7 +10,7 @@
     }
 }(function($, PNotify){
 	PNotify.prototype.options.buttons = {
-		// Provide a button for the user to manually close the notice.
+		// Provide a button for the user to manually close the notice
 		closer: true,
 		// Only show the closer button on hover.
 		closer_hover: true,
