@@ -17,6 +17,3 @@ if ((time() - $_SESSION["last_login_time"]) > 3600) {
 include_once '../init.php';
 
 $userlogin = $_SESSION['userid'];
-?>
-
-<p> iki dashboard </p>
