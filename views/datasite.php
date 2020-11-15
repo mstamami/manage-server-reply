@@ -19,4 +19,4 @@ include_once '../init.php';
 $userlogin = $_SESSION['userid'];
 ?>
 
-<p> iki dashboard </p>
+<p> iki datasite </p>
