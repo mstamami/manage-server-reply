@@ -1,1 +1,1 @@
-<?php $config["dbnama"] = "core_native"; $config["dbhost"]= "localhost";$config["dbuser"]= "cpnk"; $config["dbpass"]= "cpnk1234";
+<?php $config["dbnama"] = "server-reply"; $config["dbhost"]= "localhost";$config["dbuser"]= "root"; $config["dbpass"]= "";
